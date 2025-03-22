@@ -2,7 +2,6 @@
 .aider*
 .coverage
 dist
-drizzle
 examples/adaline-gateway/adaline-chat-history/prompt.json
 examples/adaline-gateway/adaline-embedding-similarity/prompt.json
 examples/multiple-turn-conversation/prompt.json
